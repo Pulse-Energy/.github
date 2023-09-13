@@ -1,3 +1,3 @@
 # Pulse Energy
 
-An IT services company building EV charger software
+Smart EV platform for Charge Point Operators & Fleet Operators
